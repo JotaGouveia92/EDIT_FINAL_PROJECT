@@ -1,5 +1,5 @@
 import ArtworksGrid from "../components/artworksGrid";
-import Brands from "../components/brands";
+import Brands from "../components/Brands";
 import CtaBlock from "../components/CtaBlock";
 import Footer from "../components/footer";
 import Header from "../components/Header";
