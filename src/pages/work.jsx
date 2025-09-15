@@ -1,5 +1,5 @@
-import Nav from "../components/nav";
-import Footer from "../components/footer";
+import Nav from "../components/Nav";
+import Footer from "../components/Footer";
 import SimpleHeader from "../components/SimpleHeader";
 import ContentText from "../components/ContentText";
 import GridImages from "../components/GridImages";

@@ -1,5 +1,5 @@
-import Nav from "../components/nav";
-import Footer from "../components/footer";
+import Nav from "../components/Nav";
+import Footer from "../components/Footer";
 import WorkList from "../components/WorkList";
 import MainHeader from "../components/MainHeader";
 import CtaBlock from "../components/CtaBlock";

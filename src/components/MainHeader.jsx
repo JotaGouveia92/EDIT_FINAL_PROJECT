@@ -7,12 +7,7 @@ export default function MainHeader({
   marginBottom,
 }) {
   return (
-    <section
-      className="mainHeader"
-      // data-margin-top={marginTop}
-      // data-margin-bottom={marginBottom}
-      data-margin-top="m"
-    >
+    <section className="mainHeader" data-margin-top="m">
       <div className="wrapper grid">
         <div className="mainHeader__column">
           <div className="mainHeader__content-tags">

@@ -38,11 +38,9 @@ export default function ArtworksGrid() {
     fetchArtworks();
   }, []);
 
-  useEffect(() => {
-    // console.log("Estado artworks atualizado:", artworks);
-  }, [artworks]);
+  useEffect(() => {}, [artworks]);
 
-  if (loading) return <p>Carregando...</p>;
+  if (loading) return <p>Loading...</p>;
 
   return (
     <div className="artworksGrid">
