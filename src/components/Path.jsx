@@ -28,7 +28,7 @@ export default function Path() {
             </p>
             <CtaLink
               text="See project"
-              to="/contactForm"
+              to="/contactPage"
               variant="cta-01"
               icon="fa-arrow-right"
             />
@@ -52,7 +52,7 @@ export default function Path() {
             </p>
             <CtaLink
               text="See project"
-              to="/contactForm"
+              to="/contactPage"
               variant="cta-01"
               icon="fa-arrow-right"
             />
@@ -76,7 +76,7 @@ export default function Path() {
             </p>
             <CtaLink
               text="See project"
-              to="/contactForm"
+              to="/contactPage"
               variant="cta-01"
               icon="fa-arrow-right"
             />

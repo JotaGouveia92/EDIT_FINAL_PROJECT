@@ -11,7 +11,7 @@ export default function CtaBlock() {
           </h2>
           <CtaLink
             text="Let's talk"
-            to="/contactForm"
+            to="/contactPage"
             variant="cta-01"
             icon="fa-arrow-right"
           />

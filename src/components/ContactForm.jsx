@@ -56,7 +56,7 @@ export default function ContactForm() {
         <div onClick={handleSubmit}>
           <CtaLink
             text="Submit"
-            to="/contactForm"
+            to="/contactPage"
             variant="cta-01"
             icon="fa-arrow-right"
           />

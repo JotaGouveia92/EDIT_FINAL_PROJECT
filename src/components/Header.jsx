@@ -13,7 +13,7 @@ export default function Header() {
             <div className="header__buttons">
               <CtaLink
                 text="Let's talk"
-                to="/contactForm"
+                to="/contactPage"
                 variant="cta-01"
                 icon="fa-arrow-right"
               />
