@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Work from "./pages/Work.jsx";
+import Work from "./pages/work.jsx";
 import "./assets/scss/main.scss";
 import ReactDOM from "react-dom/client";
 import React from "react";
