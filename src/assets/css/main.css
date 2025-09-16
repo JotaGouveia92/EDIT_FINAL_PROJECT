@@ -175,15 +175,15 @@ button {
   outline: none;
 }
 
-input[type=number] {
+input[type="number"] {
   -moz-appearance: textfield;
   -webkit-appearance: none;
-          appearance: none;
+  appearance: none;
 }
-input[type=number]::-webkit-inner-spin-button,
-input[type=number] ::-webkit-outer-spin-button {
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"] ::-webkit-outer-spin-button {
   -webkit-appearance: none;
-          appearance: none;
+  appearance: none;
   margin: 0;
 }
 
@@ -235,27 +235,27 @@ body {
   }
 }
 
-[data-margin-top=l] {
+[data-margin-top="l"] {
   padding-top: 104px;
 }
 
-[data-margin-bottom=l] {
+[data-margin-bottom="l"] {
   padding-bottom: 104px;
 }
 
-[data-margin-top=m] {
+[data-margin-top="m"] {
   padding-top: 72px;
 }
 
-[data-margin-bottom=m] {
+[data-margin-bottom="m"] {
   padding-bottom: 72px;
 }
 
-[data-margin-top=s] {
+[data-margin-top="s"] {
   padding-top: 56px;
 }
 
-[data-margin-bottom=s] {
+[data-margin-bottom="s"] {
   padding-bottom: 56px;
 }
 
@@ -603,7 +603,7 @@ body {
   width: 100%;
   height: 100%;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 .gridContent__content {
   display: flex;
@@ -1057,7 +1057,6 @@ body {
   color: #3b3b3b;
 }
 .simpleHeader__title {
-  margin-top: 40px;
   text-align: center;
   font-size: 64px;
   line-height: 72px;
@@ -1117,7 +1116,8 @@ body {
     margin: 0 auto;
   }
 }
-.projectBlock__detail, .projectBlock__about {
+.projectBlock__detail,
+.projectBlock__about {
   display: flex;
   flex-direction: column;
   gap: 32px;
@@ -1228,4 +1228,4 @@ body {
   to {
     transform: translateX(-50%);
   }
-}/*# sourceMappingURL=main.css.map */
+} /*# sourceMappingURL=main.css.map */
