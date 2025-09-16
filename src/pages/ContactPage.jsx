@@ -3,7 +3,7 @@ import Footer from "../components/Footer";
 import ContactForm from "../components/ContactForm";
 import SimpleHeader from "../components/SimpleHeader";
 
-export default function Contact() {
+export default function ContactPage() {
   return (
     <>
       <Nav />

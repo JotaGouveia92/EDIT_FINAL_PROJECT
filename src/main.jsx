@@ -4,7 +4,7 @@ import "./assets/scss/main.scss";
 import ReactDOM from "react-dom/client";
 import React from "react";
 import App from "./App.jsx";
-// import ContactForm from "./pages/ContactForm.jsx";
+import ContactPage from "./pages/ContactPage.jsx";
 import AboutMe from "./pages/AboutMe.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
@@ -14,7 +14,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
         <Route path="/" element={<App />} />
         <Route path="/aboutMe" element={<AboutMe />} />
         <Route path="/work" element={<Work />} />
-        {/* <Route path="/contactForm" element={<ContactForm />} /> */}
+        <Route path="/contactForm" element={<ContactPage />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
