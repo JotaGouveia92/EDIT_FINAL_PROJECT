@@ -9,9 +9,6 @@ export default function Footer() {
           <a href="https://www.instagram.com/jwowwg_?igsh=YXUzcTh2b3NkZnFs&utm_source=qr">
             <i className="fa fa-instagram"></i>
           </a>
-          <a href="https://www.linkedin.com/in/jo%C3%A3o-queiros/">
-            <i className="fa fa-linkedin"></i>
-          </a>
           <a href="https://x.com/JotaWork">
             <i className="fa-brands fa-x-twitter"></i>
           </a>
