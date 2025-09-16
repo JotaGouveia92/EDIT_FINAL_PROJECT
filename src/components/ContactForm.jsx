@@ -64,7 +64,7 @@ export default function ContactForm() {
       </form>
 
       {mensagem && (
-        <p style={{ color: "green", marginTop: "1rem" }}>{mensagem}</p>
+        <p style={{ color: $main - color, marginTop: "24px" }}>{mensagem}</p>
       )}
     </div>
   );
