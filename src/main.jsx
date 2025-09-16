@@ -4,8 +4,8 @@ import "./assets/scss/main.scss";
 import ReactDOM from "react-dom/client";
 import React from "react";
 import App from "./App.jsx";
-import ContactForm from "./pages/contactForm.jsx";
-import AboutMe from "./pages/aboutme.jsx";
+import ContactForm from "./pages/ContactForm.jsx";
+import AboutMe from "./pages/AboutMe.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
