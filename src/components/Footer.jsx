@@ -3,17 +3,17 @@ export default function Footer() {
     <div>
       <footer className="footer">
         <div className="row">
-          <a href="#">
+          <a href="https://www.facebook.com/joao.queiros.1048">
             <i className="fa fa-facebook"></i>
           </a>
-          <a href="#">
+          <a href="https://www.instagram.com/jwowwg_?igsh=YXUzcTh2b3NkZnFs&utm_source=qr">
             <i className="fa fa-instagram"></i>
           </a>
-          <a href="#">
-            <i className="fa fa-youtube"></i>
+          <a href="https://www.linkedin.com/in/jo%C3%A3o-queiros/">
+            <i className="fa fa-linkedin"></i>
           </a>
-          <a href="#">
-            <i className="fa fa-twitter"></i>
+          <a href="https://x.com/JotaWork">
+            <i className="fa-brands fa-x-twitter"></i>
           </a>
         </div>
         <div className="row">
