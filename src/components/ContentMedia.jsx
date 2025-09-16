@@ -15,8 +15,8 @@ export default function ContentMedia() {
           </div>
           <div className="contentMedia__column">
             <p className="contentMedia__description">
-              Iʼm a versatile, strategy-driven Product Designer with experience
-              in UI design, wireframing, and prototyping. Iʼm passioned about
+              Iʼm a versatile, strategy-driven UX UI Designer with experience in
+              UI design, wireframing, and prototyping. Iʼm passioned about
               designing human-centered digital experiences that connect brands
               and audiences. Always open to new challenges – say hello!
             </p>

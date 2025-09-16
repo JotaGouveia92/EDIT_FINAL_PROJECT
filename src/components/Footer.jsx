@@ -16,7 +16,9 @@ export default function Footer() {
             <i className="fa fa-twitter"></i>
           </a>
         </div>
-        <div className="row">© 2025 João Gouveia. All rights reserved</div>
+        <div className="row">
+          © {new Date().getFullYear()} João Gouveia. All rights reserved
+        </div>
       </footer>
     </div>
   );

@@ -7,7 +7,7 @@ export default function Header() {
         <div className="wrapper">
           <div className="header__content">
             <h2 className="header__title">
-              I'm a product designer & web developer enthusiast willing to
+              I'm a UX UI designer & web developer enthusiast willing to
               <span className="header__color"> create great experiences</span>
             </h2>
             <div className="header__buttons">
