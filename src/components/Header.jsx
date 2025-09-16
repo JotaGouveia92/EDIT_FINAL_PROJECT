@@ -2,7 +2,7 @@ import CtaLink from "./CtaLink";
 
 export default function Header() {
   return (
-    <div data-margin-top="m">
+    <div>
       <section className="header">
         <div className="wrapper">
           <div className="header__content">
