@@ -5,7 +5,7 @@ import ReactDOM from "react-dom/client";
 import React from "react";
 import App from "./App.jsx";
 import ContactPage from "./pages/ContactPage.jsx";
-import AboutMe from "./pages/AboutMe.jsx";
+import AboutMe from "./pages/aboutMe.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
