@@ -820,7 +820,7 @@
   }
 }
 
-// FORM
+// CONTACT FORM
 .form {
   display: flex;
   flex-direction: column;
@@ -886,6 +886,13 @@
       background-color: $neutral-color01;
     }
   }
+}
+.successMessage {
+  height: 100vh;
+  align-items: center;
+  text-align: center;
+  margin-top: 80px;
+  @include font-M;
 }
 
 // PATH

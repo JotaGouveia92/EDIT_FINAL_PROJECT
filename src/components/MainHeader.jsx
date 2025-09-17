@@ -1,11 +1,4 @@
-export default function MainHeader({
-  tag,
-  title,
-  highlight,
-  description,
-  marginTop,
-  marginBottom,
-}) {
+export default function MainHeader({ tag, title, highlight, description }) {
   return (
     <section className="mainHeader" data-margin-top="m">
       <div className="wrapper grid">
