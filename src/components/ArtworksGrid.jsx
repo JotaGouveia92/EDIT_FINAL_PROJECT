@@ -47,7 +47,7 @@ export default function ArtworksGrid() {
       <div className="wrapper">
         <div className="artworksGrid__container">
           {artworks.map((art) => (
-            <div className="artworksGridt__column" key={art.id}>
+            <div className="artworksGrid__column" key={art.id}>
               <div className="artworksGrid__card">
                 <figure>
                   <img
