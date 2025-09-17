@@ -7,9 +7,11 @@ export default function Nav() {
         <div className="nav__content">
           <div className="nav__naming">
             <a href="/">
-              <strong>
-                João<mark>Gouveia.</mark>
-              </strong>
+              <img
+                src="/images/personal_images/Naming-logo.gif"
+                alt="naming"
+                className="logo-gif"
+              />
             </a>
           </div>
           <nav className="nav__links">

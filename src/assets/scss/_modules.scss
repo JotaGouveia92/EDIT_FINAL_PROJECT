@@ -24,14 +24,6 @@
     }
   }
 
-  &__naming {
-    @include font-M;
-
-    mark {
-      color: $neutral-color02;
-    }
-  }
-
   &__links {
     display: flex;
     gap: 56px;
@@ -55,6 +47,15 @@
       @include mobile {
         @include font-M;
       }
+    }
+  }
+
+  &__naming {
+    display: flex;
+    align-items: center;
+
+    .logo-gif {
+      max-width: 120px;
     }
   }
 }
