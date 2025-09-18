@@ -67,6 +67,7 @@ export default function ArtworksGrid() {
                       {art.artist_display || "Artista desconhecido"}
                     </p>
                   </div>
+
                   <div className="artworksGrid__text-icon">
                     <Link to="/work" className="artworksGrid__text-icon">
                       <img
