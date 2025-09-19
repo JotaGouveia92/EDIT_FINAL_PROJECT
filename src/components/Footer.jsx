@@ -13,7 +13,7 @@ export default function Footer() {
             <i className="fa-brands fa-x-twitter"></i>
           </a>
           <a href="https://www.linkedin.com/in/jo%C3%A3o-queiros/">
-            <i className="fa-brands fa-x-linkedin"></i>
+            <i className="fa fa-linkedin"></i>
           </a>
         </div>
         <div className="row">
