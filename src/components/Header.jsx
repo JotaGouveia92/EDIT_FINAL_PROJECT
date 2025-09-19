@@ -34,8 +34,8 @@ export default function Header() {
                 <a href="https://www.behance.net/joaogouveiawork">BEHANCE</a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/in/jo%C3%A3o-queiros/">
-                  LINKEDIN
+                <a href="https://github.com/JotaGouveia92/EDIT_FINAL_PROJECT">
+                  GITHUB
                 </a>
               </li>
             </ul>

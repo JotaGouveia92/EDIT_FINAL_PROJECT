@@ -12,6 +12,9 @@ export default function Footer() {
           <a href="https://x.com/JotaWork">
             <i className="fa-brands fa-x-twitter"></i>
           </a>
+          <a href="https://www.linkedin.com/in/jo%C3%A3o-queiros/">
+            <i className="fa-brands fa-x-linkedin"></i>
+          </a>
         </div>
         <div className="row">
           © {new Date().getFullYear()} João Gouveia. All rights reserved
